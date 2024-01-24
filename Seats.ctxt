@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Seats
+comment1.params=totalSeats
+comment1.target=Seats(int)
+comment2.params=
+comment2.target=void\ initializeSeatStatus()
+comment3.params=
+comment3.target=void\ displayAvailableSeats()
+comment4.params=numSeats
+comment4.target=void\ bookSeats(int)
+comment5.params=scanner
+comment5.target=void\ main(java.util.Scanner)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

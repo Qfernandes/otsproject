@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Event
+comment1.params=
+comment1.target=Event()
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=
+comment3.target=void\ viewshowSchedule()
+comment4.params=
+comment4.target=void\ bookTickets()
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
